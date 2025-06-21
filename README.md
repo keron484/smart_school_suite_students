@@ -201,11 +201,10 @@ Once the SSS Students application is successfully running on your device or emul
 - Utilize the announcements hub for messages and stay informed with notifications.
 
 ## SCREENSHOTS/DEMOS
-![Courses](./assets/mockups/mockup-image11.jpg)
+![Home screen](./assets/mockups/mockup-image1.png)
 
-![Exams Resists](./assets/mockups/mockup-image10.jpg)
+![Courses](./assets/mockups/mockup-image11.png)
 
-![Exam Results](./assets/mockups/mockup-image13.jpg)
 
 
 
